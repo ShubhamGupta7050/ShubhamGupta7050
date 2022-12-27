@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamGupta7050
+- 👋 Hi, I’m Shubham Gupta
 - 👀 I’m interested in Java, Html, Css, Bootstrap
 - 🌱 I’m currently Pursuing Batchlor Of Technology in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on ...
