@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Gupta
 - 👀 I’m interested in Java, Html, Css, Bootstrap
 - 🌱 I’m currently Pursuing Batchlor Of Technology in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me meshubhamgupta385@gmail.com
 
 <!---
